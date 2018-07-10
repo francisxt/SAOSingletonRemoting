@@ -1,0 +1,2 @@
+# SAOSingletonRemoting
+Singleton en C#
