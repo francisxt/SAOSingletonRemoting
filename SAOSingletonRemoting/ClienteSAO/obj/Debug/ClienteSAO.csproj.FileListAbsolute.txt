@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\SAOSingletonRemoting\ClienteSAO\bin\Debug\ClienteSAO.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SAOSingletonRemoting\ClienteSAO\bin\Debug\ClienteSAO.exe
+c:\users\user\documents\visual studio 2013\Projects\SAOSingletonRemoting\ClienteSAO\bin\Debug\ClienteSAO.pdb
+c:\users\user\documents\visual studio 2013\Projects\SAOSingletonRemoting\ClienteSAO\bin\Debug\ComponenteSAOST.dll
+c:\users\user\documents\visual studio 2013\Projects\SAOSingletonRemoting\ClienteSAO\bin\Debug\ComponenteSAOST.pdb
+c:\users\user\documents\visual studio 2013\Projects\SAOSingletonRemoting\ClienteSAO\obj\Debug\ClienteSAO.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SAOSingletonRemoting\ClienteSAO\obj\Debug\ClienteSAO.exe
+c:\users\user\documents\visual studio 2013\Projects\SAOSingletonRemoting\ClienteSAO\obj\Debug\ClienteSAO.pdb
